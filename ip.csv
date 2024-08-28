@@ -1,0 +1,62 @@
+144.24.80.56	443	TRUE	ICN	Asia Pacific	Seoul	98 ms	18341 kB/s
+144.24.78.162	443	TRUE	ICN	Asia Pacific	Seoul	99 ms	18275 kB/s
+129.154.59.235	443	TRUE	ICN	Asia Pacific	Seoul	97 ms	17886 kB/s
+152.67.222.167	443	TRUE	ICN	Asia Pacific	Seoul	99 ms	17375 kB/s
+138.3.222.33	443	TRUE	NRT	Asia Pacific	Tokyo	176 ms	10296 kB/s
+132.226.6.125	443	TRUE	NRT	Asia Pacific	Tokyo	180 ms	9779 kB/s
+140.238.195.98	443	TRUE	SYD	Oceania	Sydney	181 ms	9652 kB/s
+129.146.220.190	443	TRUE	LAX	North America	Los Angeles	213 ms	8902 kB/s
+132.145.254.4	443	TRUE	FRA	Europe	Frankfurt	214 ms	8728 kB/s
+150.230.112.235	443	TRUE	FRA	Europe	Frankfurt	302 ms	8650 kB/s
+132.226.195.165	443	TRUE	FRA	Europe	Frankfurt	196 ms	8521 kB/s
+158.101.141.147	443	TRUE	NRT	Asia Pacific	Tokyo	179 ms	7927 kB/s
+141.147.14.207	443	TRUE	FRA	Europe	Frankfurt	200 ms	6385 kB/s
+144.24.37.146	443	TRUE	LAX	North America	Los Angeles	212 ms	5920 kB/s
+8.222.78.155	443	TRUE	NRT	Asia Pacific	Tokyo	67 ms	5883 kB/s
+144.24.189.226	443	TRUE	FRA	Europe	Frankfurt	193 ms	5741 kB/s
+168.138.13.201	443	TRUE	MEL	Oceania	Melbourne	188 ms	4 kB/s
+140.238.201.118	443	TRUE	SYD	Oceania	Sydney	181 ms	0 kB/s
+131.186.28.236	443	TRUE	NRT	Asia Pacific	Tokyo	208 ms	0 kB/s
+130.61.239.203	2053	TRUE	FRA	Europe	Frankfurt	293 ms	10030 kB/s
+158.101.169.13	2053	TRUE	FRA	Europe	Frankfurt	302 ms	9284 kB/s
+130.61.181.61	2053	TRUE	FRA	Europe	Frankfurt	297 ms	9080 kB/s
+193.122.1.0	2053	TRUE	FRA	Europe	Frankfurt	298 ms	8903 kB/s
+129.146.242.24	2053	TRUE	LAX	North America	Los Angeles	212 ms	8250 kB/s
+138.2.86.176	2053	TRUE	SIN	Asia Pacific	Singapore	230 ms	8008 kB/s
+141.144.198.113	2053	TRUE	AMS	Europe	Amsterdam	262 ms	7680 kB/s
+143.47.243.144	2053	TRUE	LHR	Europe	London	336 ms	7649 kB/s
+129.151.198.3	2053	TRUE	ARN	Europe	Stockholm	271 ms	7415 kB/s
+144.24.169.81	2053	TRUE	FRA	Europe	Frankfurt	191 ms	6225 kB/s
+130.61.203.115	2053	TRUE	FRA	Europe	Frankfurt	215 ms	5752 kB/s
+64.110.103.222	2053	TRUE	KIX	Asia Pacific	Osaka	187 ms	5727 kB/s
+132.145.54.84	2053	TRUE	LHR	Europe	London	238 ms	5717 kB/s
+144.21.41.62	2053	TRUE	AMS	Europe	Amsterdam	346 ms	5398 kB/s
+168.138.141.235	2053	TRUE	GRU	South America	S?o Paulo	388 ms	4961 kB/s
+132.226.163.224	2053	TRUE	GRU	South America	S?o Paulo	389 ms	4933 kB/s
+132.145.127.203	2053	TRUE	NRT	Asia Pacific	Tokyo	185 ms	78 kB/s
+193.123.252.170	2083	TRUE	ICN	Asia Pacific	Seoul	202 ms	8294 kB/s
+152.70.85.165	2083	TRUE	KIX	Asia Pacific	Osaka	189 ms	6253 kB/s
+152.70.155.147	2087	TRUE	LAX	North America	Los Angeles	216 ms	10478 kB/s
+152.70.155.147	2096	TRUE	LAX	North America	Los Angeles	220 ms	10167 kB/s
+129.146.137.89	2096	TRUE	LAX	North America	Los Angeles	212 ms	8263 kB/s
+130.61.181.61	2096	TRUE	FRA	Europe	Frankfurt	303 ms	6496 kB/s
+140.238.12.52	8443	TRUE	NRT	Asia Pacific	Tokyo	59 ms	24590 kB/s
+8.213.208.51	8443	TRUE	SIN	Asia Pacific	Singapore	112 ms	11609 kB/s
+138.2.36.157	8443	TRUE	KIX	Asia Pacific	Osaka	306 ms	9418 kB/s
+47.251.54.234	8443	TRUE	SJC	North America	San Jose	173 ms	8328 kB/s
+144.24.169.81	8443	TRUE	FRA	Europe	Frankfurt	213 ms	8003 kB/s
+144.21.41.62	8443	TRUE	AMS	Europe	Amsterdam	344 ms	7633 kB/s
+141.147.85.167	8443	TRUE	LHR	Europe	London	249 ms	7268 kB/s
+141.144.198.113	8443	TRUE	AMS	Europe	Amsterdam	243 ms	7121 kB/s
+152.70.59.90	8443	TRUE	AMS	Europe	Amsterdam	245 ms	7116 kB/s
+132.145.54.84	8443	TRUE	LHR	Europe	London	242 ms	7008 kB/s
+129.159.83.88	8443	TRUE	IAD	North America	Ashburn	272 ms	6872 kB/s
+129.151.198.3	8443	TRUE	ARN	Europe	Stockholm	271 ms	6770 kB/s
+47.89.149.186	8443	TRUE	IAD	North America	Ashburn	272 ms	6677 kB/s
+130.162.226.138	8443	TRUE	FRA	Europe	Frankfurt	302 ms	6391 kB/s
+204.216.105.106	8443	TRUE	YUL	North America	Montréal	265 ms	5927 kB/s
+130.61.181.61	8443	TRUE	FRA	Europe	Frankfurt	192 ms	5916 kB/s
+47.253.130.14	8443	TRUE	IAD	North America	Ashburn	272 ms	5883 kB/s
+141.148.242.113	8443	TRUE	AMS	Europe	Amsterdam	308 ms	4804 kB/s
+150.230.20.156	8443	TRUE	AMS	Europe	Amsterdam	346 ms	1123 kB/s
+132.145.127.203	8443	TRUE	NRT	Asia Pacific	Tokyo	190 ms	105 kB/s
